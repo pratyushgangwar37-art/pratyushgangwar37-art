@@ -151,3 +151,112 @@ public class PratyushGangwar {
 ✅ Become a Software Engineer
 
 ---
+---
+
+# 🚀 Featured Projects
+
+<details open>
+<summary><h2>🎓 College ERP System</h2></summary>
+
+### 📖 Overview
+
+A full-stack ERP web application built using **Java**, **Spring Boot**, and **MySQL** that allows students and administrators to securely manage academic records.
+
+### ✨ Features
+
+- 🔐 Student Login Authentication
+- 👨‍💼 Admin Dashboard
+- 📅 Timetable Management
+- 📊 Marks Management
+- 📝 Course Registration
+- 🔑 Role-Based Access Control
+- 🌐 REST APIs
+- 💾 MySQL Database
+
+| Category | Details |
+|----------|----------|
+| Language | Java |
+| Framework | Spring Boot |
+| Database | MySQL |
+| Architecture | REST API |
+| Status | 🚧 In Progress |
+
+</details>
+
+---
+
+<details open>
+
+<summary><h2>🤖 Recommendation System</h2></summary>
+
+### 📖 Overview
+
+A recommendation engine built using **Python** that provides personalized recommendations using similarity-based filtering techniques.
+
+### ✨ Features
+
+- 🧠 Personalized Recommendations
+- 📊 Data Preprocessing
+- ⚡ Fast Similarity Search
+- 📈 Recommendation Ranking
+
+| Category | Details |
+|----------|----------|
+| Language | Python |
+| Algorithm | Similarity Filtering |
+| Status | ✅ Completed |
+
+</details>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pratyushgangwar37-art&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushgangwar37-art&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushgangwar37-art&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pratyushgangwar37-art&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyushgangwar37-art&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 💼 Currently Working On
+
+- ☕ Spring Boot Mastery
+- 📚 Advanced Data Structures & Algorithms
+- 🚀 Backend Development
+- 🧠 System Design Fundamentals
+- 🌐 Building Production Ready APIs
+- 💻 Open Source Contributions
+
+---
