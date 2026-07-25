@@ -110,3 +110,14 @@ OpenTo:
 ---
 
 > "Consistency compounds into excellence."
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/pratyushgangwar37-art/pratyushgangwar37-art/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
