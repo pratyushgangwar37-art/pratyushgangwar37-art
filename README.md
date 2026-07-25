@@ -259,4 +259,99 @@ A recommendation engine built using **Python** that provides personalized recomm
 - 🌐 Building Production Ready APIs
 - 💻 Open Source Contributions
 
+--- 
 ---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Coming_Soon-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coming_Soon-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Coming_Soon-brightgreen?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Coming_Soon-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
+</div>
+
+> 📌 Replace these links with your actual profiles once you create them.
+
+---
+
+# 💼 Experience
+
+### 🎓 B.Tech Computer Science Engineering
+**Graphic Era Hill University**
+
+📅 2024 – Present
+
+- Backend Development
+- Java Programming
+- Spring Boot
+- REST APIs
+- Data Structures & Algorithms
+- Database Management
+
+---
+
+# 📜 Certifications
+
+| Provider | Status |
+|-----------|--------|
+| Oracle Java | 🚀 Planned |
+| Cisco | 🚀 Planned |
+| NPTEL | 🚀 Planned |
+| AWS Cloud | 🚀 Planned |
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Solve **500+ DSA Problems**
+- ✅ Master Spring Boot
+- ✅ Build 10+ Backend Projects
+- ✅ Learn System Design
+- ✅ Contribute to Open Source
+- ✅ Secure a Software Engineering Internship
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:pratyushgangwar37@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pratyush-gangwar-7730153a5">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/pratyushgangwar37-art">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:8A2BE2"/>
+
+</div>
