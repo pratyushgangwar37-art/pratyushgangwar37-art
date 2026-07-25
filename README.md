@@ -1,112 +1,153 @@
-# <div align="center">Hi 👋, I'm Pratyush Gangwar</div>
-
 <div align="center">
 
-### Java Backend Developer • 3rd Year B.Tech CSE • DSA Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,100:8A2BE2&text=Pratyush%20Gangwar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;Data+Structures+%26+Algorithms;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Data+Structures+%26+Algorithms;Backend+Engineering;Always+Building+Something+Awesome)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratyush-gangwar-7730153a5)
-[![GitHub](https://img.shields.io/badge/GitHub-pratyushgangwar37--art-black?style=for-the-badge&logo=github)](https://github.com/pratyushgangwar37-art)
+<p>
+
+<a href="https://www.linkedin.com/in/pratyush-gangwar-7730153a5">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pratyushgangwar37@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/pratyushgangwar37-art">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+![](https://komarev.com/ghpvc/?username=pratyushgangwar37-art&style=for-the-badge&color=blueviolet)
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🎓 Third-year B.Tech CSE student
-- ☕ Passionate about Java & Spring Boot
-- 💻 Learning Backend Engineering and System Design
-- 📚 Daily DSA practice
-- 🎯 Goal: Software Engineer
+```java
+public class PratyushGangwar {
 
----
+    String role = "Java Backend Developer";
 
-## 🛠 Tech Stack
+    String education = "B.Tech CSE (3rd Year)";
 
-**Languages**
+    String college = "Graphic Era Hill University";
 
-![Java](https://skillicons.dev/icons?i=java,python,js,sql)
+    String location = "Lucknow, India";
 
-**Backend**
+    String[] interests = {
+        "Backend Development",
+        "Spring Boot",
+        "REST APIs",
+        "System Design",
+        "Data Structures",
+        "Problem Solving"
+    };
 
-![Backend](https://skillicons.dev/icons?i=spring,nodejs)
+    String currentFocus =
+        "Building scalable Java applications.";
 
-**Database**
-
-![DB](https://skillicons.dev/icons?i=mysql)
-
-**Tools**
-
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea)
-
----
-
-## 📂 Featured Projects
-
-<details>
-<summary><b>🎓 College ERP System</b></summary>
-
-- Java + Spring Boot + MySQL
-- Student login
-- Role-based access
-- REST APIs
-
-</details>
-
-<details>
-<summary><b>🤖 Recommendation System</b></summary>
-
-- Python
-- Similarity-based recommendations
-- Personalized suggestions
-
-</details>
-
----
-
-## 📊 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=pratyushgangwar37-art&show_icons=true&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=pratyushgangwar37-art&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushgangwar37-art&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=pratyushgangwar37-art&theme=tokyo-night)
-
----
-
-## 🌱 Current Focus
-
-```yaml
-Learning:
-  - Spring Boot
-  - System Design
-  - DSA
-
-Building:
-  - College ERP
-  - Backend APIs
-
-OpenTo:
-  - Java Internship
-  - Backend Developer Roles
+}
 ```
 
 ---
 
-## 📫 Connect
+## 🚀 What I'm Doing
 
-- Email: pratyushgangwar37@gmail.com
-- LinkedIn: https://www.linkedin.com/in/pratyush-gangwar-7730153a5
-- GitHub: https://github.com/pratyushgangwar37-art
+- 🌱 Learning **Spring Boot**
+- 💻 Solving DSA every day
+- 🚀 Building Full Stack Projects
+- ☕ Exploring Backend Architecture
+- 📚 Improving Java Development Skills
+- 🎯 Looking for Software Engineering Internship
 
 ---
 
-> "Consistency compounds into excellence."
+# ⚡ Tech Stack
+
+## Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=sql"/>
+
+</p>
+
+---
+
+## Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+</p>
+
+---
+
+## Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=idea"/>
+
+</p>
+
+---
+
+# 🧠 Core Skills
+
+| Area | Technologies |
+|------|--------------|
+| Languages | Java, Python, JavaScript, SQL |
+| Backend | Spring Boot, REST APIs |
+| Database | MySQL |
+| Version Control | Git & GitHub |
+| IDE | IntelliJ IDEA, VS Code |
+| CS Fundamentals | DSA, OOP, Problem Solving |
+
+---
+
+# 🎯 Current Goals
+
+✅ Master Spring Boot
+
+✅ Crack Product Company Interviews
+
+✅ Build Scalable Backend Systems
+
+✅ Solve 500+ DSA Problems
+
+✅ Become a Software Engineer
+
+---
