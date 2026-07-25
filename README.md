@@ -355,3 +355,68 @@ A recommendation engine built using **Python** that provides personalized recomm
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:8A2BE2"/>
 
 </div>
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/pratyushgangwar37-art/pratyushgangwar37-art/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 🌟 Open To
+
+<div align="center">
+
+| Role | Status |
+|------|--------|
+| Java Developer Internship | ✅ Open |
+| Backend Developer Internship | ✅ Open |
+| Software Engineering Internship | ✅ Open |
+| Open Source Collaboration | ✅ Open |
+
+</div>
+
+---
+
+# ⚡ Fun Facts
+
+- ☕ Coffee makes debugging easier.
+- 💡 I enjoy building backend systems more than designing UIs.
+- 📚 I believe consistency beats intensity.
+- 🚀 Every project teaches something new.
+
+---
+
+# 📈 Profile Summary
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratyushgangwar37-art&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratyushgangwar37-art&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratyushgangwar37-art&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💜 Thanks for visiting my profile
+
+### ⭐ If you like my work, consider giving my repositories a star.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:6C63FF,100:8A2BE2"/>
+
+</div>
